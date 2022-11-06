@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Linouss
+- 👀 I’m interested in JAVA coding, p-adic-numbers, syracuse, mathematic
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on syracuse conjecture and p-adic numbers
+- 📫 How to reach me ...
+
